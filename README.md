@@ -87,7 +87,7 @@ Version 1.0 - 2018/08/11
 
 ## Authors
 
-* **Gaetano Ceraulo** - *Initial work* - [SOCIAL NETWORKING APPLICATION](https://github.com/PurpleBooth)
+* **Gaetano Ceraulo** - *Initial work* - [SOCIAL NETWORKING APPLICATION](https://github.com/gaetanoceraulo/socialnetworkingapplication)
 
 ## License
 
