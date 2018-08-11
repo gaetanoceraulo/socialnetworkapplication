@@ -35,10 +35,10 @@ A console-based social networking application (similar to Twitter) satisfying th
 
 ### Prerequisites
 
-Last PHP version Installed
+PHP Installed,
 more info: http://php.net/docs.php
 
-Last MYSQL version installed
+MYSQL installed,
 more info: https://dev.mysql.com/doc/
 
 ## Getting Started
