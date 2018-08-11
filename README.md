@@ -62,7 +62,7 @@ If running on linux platform uncomment these lines in [index.php] file
 include_once(__DIR__ . '/class/social_networking_class.php');
 ```
 
-and these lines in [social_networking_class.php] file
+and these lines in [class\social_networking_class.php] file
 
 ```
 include_once(__DIR__ . '/include/mysql_config.inc.php');
